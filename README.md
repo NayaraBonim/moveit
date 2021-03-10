@@ -1,8 +1,8 @@
-<h1 align="center">MoveIt by Rockeseat | NLW </h1>
+<h1 align="center">MoveIt by Rocketseat | NLW </h1>
        
 <figure>
   <img src="https://github.com/NayaraBonim/moveit/blob/master/public/moveit-next-capa.png" alt="MoveIt App">
-  <figcaption>Projeto com Next | NLW </figcaption>
+  <figcaption>Projeto com Next | NLW 4</figcaption>
 </figure>
 
 <p>
